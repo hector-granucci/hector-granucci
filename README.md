@@ -1,4 +1,6 @@
-# 💫 About Me:
+Hello! I'm  Granucci Hector 👋 
+<br>
+
 📖 Currently expanding my knowledge in  MongoDB and tailwind<br><br>👥 Open to collaborating on exciting back-end and front-end projects<br><br>🎮 In my free time, you can find me listening to music,<br>Watch Anime or playing videogames...and coding
 
 
