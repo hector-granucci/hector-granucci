@@ -38,5 +38,49 @@ React · Redux · Vite · HTML · CSS · PostgreSQL · Sequelize · Git · Figma
 </div>
 
 <h4 align="center">Backend</h4>
-<div align="
+<div align="center">
 
+[![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]
+[![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]
+[![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+[![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]
+[![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]
+[![codeigniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)]
+
+</div>
+
+<h4 align="center">Databases & Tools</h4>
+<div align="center">
+
+[![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]
+[![sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)]
+[![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]
+[![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]
+
+</div>
+
+---
+
+<h3 align="center">📧 Contact me</h3>
+
+<div align="center">
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-granucci-013476265/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eneasgranucci/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:titototoxd456@gmail.com)
+
+</div>
+
+---
+
+<h3 align="center">🌟 Miscs</h3>
+
+<div align="center">
+
+[![scrum](https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=ko-fi&logoColor=white)]
+[![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)]
+[![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]
+
+</div>
+
+---
