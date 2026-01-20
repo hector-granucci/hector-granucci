@@ -72,15 +72,3 @@ React · Redux · Vite · HTML · CSS · PostgreSQL · Sequelize · Git · Figma
 </div>
 
 ---
-
-<h3 align="center">🌟 Miscs</h3>
-
-<div align="center">
-
-[![scrum](https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=ko-fi&logoColor=white)]
-[![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)]
-[![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]
-
-</div>
-
----
